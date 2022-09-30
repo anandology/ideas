@@ -1,17 +1,22 @@
-# ideas
+# Compass
 
-Proposals for various project ideas to work on at Pipal Academy.
+Compass is the repository for discussing proposals for new projects and major features to the existing projects at Pipal Academy.
+
+While this is primarily intended for the developers of Pipal Academy, our work is open and anyone is welcome to participate in the discussions and provide inputs.
 
 ## Overview
 
-Loosely modelled around the Python's PEP. Each proposal to implement a new project or make sustantial changes to any existing project are listed here. 
+This repository will have all the proposals, each one as markdown file.
 
-Process:
+The proposal file will be names as `PXX.md`, where `XX` is the two digit number for the proposal.
+
+
+The processes is loosely modelled around the Python's PEP. 
+
+If you have a new proposal: 
 
 1. Create a github issue with the initial proposal
 2. discuss with others in the issue
-3. once there is concensus and the details are ironed out, add it as a idea 
+3. once there is concensus and the details are ironed out, add it as a proposal
 
-## Open Issues
-
-- The name _ideas_ doesn't sound that appropriate. What could be a better one?
+The `index.md` file will containe a list of all the proposals as a table.
